@@ -1,0 +1,53 @@
+.contentDropdown-cont{
+    border-bottom: 1.5px solid #8f8f8f61;
+    cursor: pointer;
+}
+
+
+
+
+.dropDown-btn{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* border-radius: 10px; */
+    padding: 20px 0;
+    align-items: center;
+    border: none;
+    /* background-color: black; */
+}
+.dropDown-btn span{
+    display: block;
+    
+}
+.dropDown-heading{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #212123;
+}
+.dropDownBtn-icon{
+    font-size: 24px;
+    color: #212123;
+}
+
+
+
+
+
+
+.characteristics-cont{
+    margin: 15px 0;
+}
+.characteristics-list{
+    list-style-type: none;
+}
+.characteristics-list-item{
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+    margin: 10px 0;
+    color: #212123;
+}
+.characteristic{
+    color: #8f8f8fd6;
+}

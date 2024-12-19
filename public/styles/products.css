@@ -1,0 +1,27 @@
+.products-section{
+    padding-top: 40px;
+}
+.products-inner{
+    display: flex;
+    justify-content: space-between;
+}
+.product-cont{
+    width: 20%;
+}
+.product-image-cont img{
+    width: 100%;
+    height: 400px;
+}
+.product-details-cont{
+    margin-top: 8px;
+}
+
+.product-details-cont{
+    font-family: sans-serif;
+    color: #212123;
+    font-size: 14px;
+}
+.price{
+    margin-top: 5px;
+    color: #8f8f8f;
+}
